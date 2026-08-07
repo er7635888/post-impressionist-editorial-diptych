@@ -1,0 +1,14 @@
+interface:
+  display_name: Original Photo Editorial Diptych
+  short_description: Original photo above an oil-painted abstract panel.
+  default_prompt: Use $post-impressionist-editorial-diptych to place this original
+    photo above a restrained oil-painted abstract memory panel.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
