@@ -115,4 +115,4 @@ Turn this uploaded image into a vertical editorial diptych. Preserve the origina
 
 ## License
 
-No license has been specified yet. Add a license before distributing or reusing this skill outside your own projects.
+This project is licensed under the [MIT License](LICENSE).
